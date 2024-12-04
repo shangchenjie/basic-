@@ -1,0 +1,3 @@
+/mnt/c/down/Basic-Interpreter-2024-main/cmake-build-debug/CMakeFiles/code.dir
+/mnt/c/down/Basic-Interpreter-2024-main/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/down/Basic-Interpreter-2024-main/cmake-build-debug/CMakeFiles/rebuild_cache.dir
